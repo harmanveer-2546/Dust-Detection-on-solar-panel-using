@@ -3,7 +3,7 @@
 InceptionV3 is a convolutional neural network (CNN) architecture designed for image recognition and classification. It's known for its efficiency and accuracy, making it a popular choice for various computer vision tasks. Here's a quick breakdown:
 
 * Developed by Google: InceptionV3 is part of the Inception family of CNNs created by Google researchers.
-
+     
 ### Focus on Efficiency:
 
 This architecture achieves high accuracy while keeping the number of parameters (complexity) relatively low compared to other models.
